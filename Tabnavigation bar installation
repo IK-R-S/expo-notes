@@ -1,0 +1,9 @@
+ TAB BAR NAVIGATION
+ 
+ - npm install @react-navigation/native                  (óbvio)
+ 
+ - npm install @react-navigation/bottom-tabs
+ 
+IMPORTAÇÕES:
+ 
+ - import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';

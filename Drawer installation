@@ -1,0 +1,5 @@
+📲️ MÓDULO DE DRAWER - REACT NAVIGATION ⚛️
+
+- npm install @react-navigation/drawer
+
+- expo install react-native-gesture-handler react-native-reanimated

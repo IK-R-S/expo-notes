@@ -1,0 +1,15 @@
+📲️ MÓDULO DE NAVEGAÇÃO - REACT NAVIGATION ⚛️
+
+ Instalação:
+
+ npm install @react-navigation/native
+
+ expo install react-native-screens react-native-safe-area-context
+
+ npm install @react-navigation/native-stack
+
+ Importações:
+
+ import { NavigationContainer } from '@react-navigation/native';
+ import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
