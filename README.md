@@ -21,7 +21,7 @@ _Some notes for usual processes on expo_
 
 - expo install react-native-gesture-handler react-native-reanimated
 
-## 📲️ MÓDULO DE TABBAR - TAB BAR NAVIGATION
+## 📲️ MÓDULO DE TABBAR - TAB BAR NAVIGATION ⚛️
 
 ### Instalação:
 
