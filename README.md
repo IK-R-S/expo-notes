@@ -32,3 +32,13 @@ _Some notes for usual processes on expo_
 ### Importações:
  
  - import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+
+## 📲️ MÓDULO DE TOP TAB - TOP TAB NAVIGATOR ⚛️
+
+### Instalação:
+- npm install @react-navigation/material-top-tabs react-native-tab-view
+- expo install react-native-pager-view
+- 
+### Importações:
+- import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs';
+
