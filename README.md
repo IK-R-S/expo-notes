@@ -38,7 +38,7 @@ _Some notes for usual processes on expo_
 ### Instalação:
 - npm install @react-navigation/material-top-tabs react-native-tab-view
 - expo install react-native-pager-view
-- 
+
 ### Importações:
 - import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs';
 
