@@ -1,10 +1,12 @@
 # expo-notes
 _Notas de instalações e configurações básicas do expo_
 
-# 1. Instalando o expo em distribuições linux (Ubuntu, Debian)
+## Instalando o expo em distribuições linux (Ubuntu, Debian)
 ```bashscript
-sudo apt install nodejs
-sudo apt install npm
+sudo apt update
+sudo apt upgrade -y
+sudo apt install nodejs -y
+sudo apt install npm -y
 npm install expo-cli --global
 ```
 
