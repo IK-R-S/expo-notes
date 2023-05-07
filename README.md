@@ -1,5 +1,14 @@
 # expo-notes
-_Some notes for usual processes on expo_
+_Notas de instalações e configurações básicas do expo_
+
+# 1. Instalando o expo em distribuições linux (Ubuntu, Debian)
+```bashscript
+sudo apt install nodejs
+sudo apt install npm
+npm install expo-cli --global
+```
+
+
 ## 📲️ MÓDULO DE NAVEGAÇÃO - REACT NAVIGATION ⚛️
 
 ### Instalação:
