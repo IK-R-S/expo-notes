@@ -21,11 +21,16 @@ npm install expo-cli --global
 
 ```npm install @react-navigation/native-stack```
 
+Comando completo:
+```
+npm install @react-navigation/native @react-navigation/native-stack; expo install react-native-screens react-native-safe-area-context
+```
 ### Importações:
 
-```import { NavigationContainer } from '@react-navigation/native';```
-
-```import { createNativeStackNavigator } from '@react-navigation/native-stack';```
+```
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+```
 
 ## 📲️ MÓDULO DE DRAWER - REACT NAVIGATION ⚛️
 
