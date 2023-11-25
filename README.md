@@ -15,16 +15,10 @@ npm install expo-cli --global
 
 ### Instalação:
 
-```npm install @react-navigation/native```
-
-```expo install react-native-screens react-native-safe-area-context```
-
-```npm install @react-navigation/native-stack```
-
-Comando completo:
 ```
 npm install @react-navigation/native @react-navigation/native-stack; expo install react-native-screens react-native-safe-area-context
 ```
+
 ### Importações:
 
 ```
